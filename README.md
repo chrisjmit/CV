@@ -1,4 +1,14 @@
-## Your Name
+## Chris Mitchell
+
+Hello there, i'm Chris.
+
+I'm a junior full stack web developer, with an ear for the musical and a eye for the great outdoors.
+
+As a Performance Analyst at Brighton & Hove city council for the last seven years, I've project managed business planning, performance reporting and customer insight workstreams across high-profile services to the city.
+
+With an eye on the progression of my skills and experience, and another on the future, I'm looking for a web development role in an organised and diverse environment with clear communication, that enables me to create efficient and effective customer-focussed web solutions based on collaboration, innovation and object-oriented design principals.
+ 
+
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -43,6 +53,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **Company Name** (start_date to end_date)    
-*Your job title*  
+
+Brighton & Hove City Council (October 2010 to current)
+
+*Performance Analyst*
+
+, including Waste, Recycling, Street Cleaning, Planning, Regeneration, Transport, Property & Design, Culture and Housing.
+
+
 **Company Name** (start_date to end_date)   
 *Your job title*  
