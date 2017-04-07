@@ -4,11 +4,11 @@
 
 Hello, I'm Chris.
 
-I'm a junior full stack web developer, with an ear for the musical and a heart for the great outdoors. I'm an achiever driven by a sense of possibility and sense of optimism.
+I'm a junior full stack web developer, with an ear for the musical and an eye for the great outdoors. I'm an achiever driven by a sense of possibility and appreciation for the moment.
 
-With seven years experience as Performance Analyst at Brighton & Hove city council, I've project managed business planning, performance reporting and customer insight workstreams for high-profile services to the city.
+With seven years experience as Performance Analyst at Brighton & Hove City Council, I've project managed business planning, performance reporting and customer insight workstreams for high-profile services to the city.
 
-With an eye on new challenges and creating a future that inspires me and others, I'm looking for a web development role in an organised and diverse working environment that prizes strong leadership and clear communication; one that will enable me to create efficient and effective customer-focussed solutions driven by collaboration, innovation and object-oriented design principals.
+Moving forward, my aim is to create a future that inspires me and others, and I'm looking for a web development role in an organised and diverse working environment that prizes high-quality leadership and clear communication; one that will enable me to create efficient and effective customer-focussed solutions driven by collaboration, innovation and object-oriented design principals.
 
 **Tech Skills** : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
 
@@ -49,7 +49,9 @@ Various training course experiences at Brighton and Hove CC including Leading an
 ## Experience
 
 **Brighton & Hove City Council** (October 2010 to current)
+
 *Performance Analyst*
+
 As project manager in the Performance, Improvement and Programmes service area, I was business-partner to the Economy, Environment and Culture and Children's Services directorates.
 
 I delivered the day-to-day refresh of the directorate and service business plans, key performance indicator (KPI) sets and target setting for key services in the city including Waste, Recycling, Street Cleaning, Planning, Regeneration, Transport, Property & Design, Culture, Housing, and a host of Universal, Early Help and Specialist services for children in the city.
@@ -59,23 +61,36 @@ I would lead and manage quarterly reporting of progress on KPI's and plans to th
 The role involved a support and challenge style, benefitting from an organised approach working back from deadlines, the ability to influence others, and a self-starting and positive attitude.
 
 ### Other key roles carried out during this time include:
-*Workstyles Business Change Manager* responsible for co-ordinating the service move in 2016 from King's House to Hove Town Hall.
-*Customer Insight Manager* Author of the organisation's Customer Insight report. I co-ordinated the collection of perceptional and transactional metrics on the customer experience, contact methods and feedback, and published this in an annual report with an audience of senior management, staff, residents and service users.
-*Internal Customer Survey manager* Co-ordinated, analysed and published results of an annual survey of staff satisfaction of working with and using other council services.
+
+*Workstyles Business Change Manager*
+
+responsible for co-ordinating the service move in 2016 from King's House to Hove Town Hall.
+
+*Customer Insight Manager*
+
+Author of the organisation's Customer Insight report. I co-ordinated the collection of perceptional and transactional metrics on the customer experience, contact methods and feedback, and published this in an annual report with an audience of senior management, staff, residents and service users.
+
+*Internal Customer Survey manager*
+
+Co-ordinated, analysed and published results of an annual survey of staff satisfaction of working with and using other council services.
 
 **Brighton & Hove City Council** (February 2009 to October 2010)
+
 *Systems Administrator*
+
 I was responsible for the administration  of the local authorities customer-engagement tool, used for consulting residents and service users on changes to service provision. I trained users in using the system and provided
 
 **University of Brighton** (May 2008 to January 2009)
+
 *Project Support Officer*
+
 I supported the project manager to deliver the rollout of an estates and asset management software solution for the management building assets and workflow. The role also involved the authoring of technical documentation and guidance, and providing face-to-face training.
 
 ## Interests
 - Music (https://perchtheband.bandcamp.com)
 - Technology
 - Snowboarding
-- Cycling, gym, meditation
+- Cycling, gym, tennis
 
 ## Contact
 - Git: https://github.com/chrisjmit
