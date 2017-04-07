@@ -18,11 +18,11 @@ To be added
 
 ## Skills
 
-#### Organisation and time management
-#### Problem solving and analysis
-#### Excellent communication
-#### Leadership
-#### Teamwork
+- Organisation and time management
+- Problem solving and analysis
+- Excellent communication
+- Leadership
+- Teamwork
 
 ## Education
 
@@ -62,19 +62,19 @@ The role involved a support and challenge style, benefitting from an organised a
 
 #### Other key roles carried out during this time include:
 
-*Workstyles Business Change Manager*
+- *Workstyles Business Change Manager*
 
 Responsible for co-ordinating the service move in 2016 from the King's House building to Hove Town Hall.
 
-*Customer Insight Manager*
+- *Customer Insight Manager*
 
 Author of the organisation's Customer Insight report. I co-ordinated the collection of perceptional and transactional metrics on the customer experience, contact methods and feedback, and published this in an annual report with an audience of senior management, staff, residents and service users.
 
-*Internal Customer Survey manager*
+- *Internal Customer Survey manager*
 
 Co-ordinated, analysed and published results of an annual survey of staff satisfaction of working with and using other council services.
 
-*Business Model Canvas facilitator*
+- *Business Model Canvas facilitator*
 
 
 **Brighton & Hove City Council** (February 2009 to October 2010)
