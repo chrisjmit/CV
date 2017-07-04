@@ -4,17 +4,26 @@
 
 Hello, I'm Chris.
 
-I recently finished the 12-week remote learning course at Makers Academy and am looking for my first developer role. I'm a 33-year-old experienced performance analyst/project manager-turned-software developer. I've an ear for the musical and an eye for the great outdoors, and am looking for a role where I can continue to grow my passion for software craftsmanship, object-oriented programming, behaviour/test driven design, and the XP values.
+I recently finished the 12-week remote learning course at Makers Academy and am looking for my first developer role. I'm a 33-year-old experienced performance analyst/project manager-turned-software developer. I've an ear for the musical and an eye for the great outdoors, and am looking for a role where I can keep growing my passion for software craftsmanship and the culture of creativity and possibility in technology.
 
-**Tech Skills** : Ruby, JavaScript, Node.js, React, Express, Rails, MongoDB, PostgreSQL, Sinatra, HTML, jQuery, CSS, Bootstrap.
+**Tech Skills** : Ruby, Javascript, Node.js, React, Express, Rails, MongoDB, PostgreSQL, HTML, jQuery, CSS, Bootstrap, Sinatra.
 
 ## Projects
 
-To be added
+[In Search of Happiness](https://github.com/chrisjmit/in-search-of-happiness)
+A web app to help developers find their dream company to work for. Uses the Glassdoor Companies API for json data, built using the MERN (MongoDB, Express, React, Node) stack.
+
+[Finding Ra](https://github.com/chrisjmit/finding-ra)
+Single page web app using the Google Maps Javascript, Places and Geolocator API's to render a map of currently open establishments within 1000 meters of the current location.
+
+[Makers BnB](https://github.com/chrisjmit/makersbnb)
+Template website for posting spaces available for hire!
+
+Please see my Github for more info: https://github.com/chrisjmit
 
 ## Skills
 
-- Organisation and time management
+- Organisation and project management
 - Problem solving and analysis
 - Excellent communication
 - Leadership
@@ -27,9 +36,10 @@ To be added
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, BDD, TDD, SOLID, MVC, DDD
+- Pair programming
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js
-- Jasmine, Rspec, Mocha, Chai, Capybara, WebdriverIO, ZombieJS
+- Jasmine, Rspec, Mocha, Chai, Selenium, WebdriverIO, Capybara, ZombieJS
 
 #### Your University / College (September 2003 to July 2006)
 
@@ -48,7 +58,7 @@ To be added
 *Performance Analyst*
 
 As business-partner to the 'Economy, Environment and Culture' and 'Families, Children and Learning' directorates, I project managed the ongoing refresh of the business planning framework, worked with data leads and service managers to compile quarterly performance reports, and presented these to each of the Executive Director's Management teams.
-This role required a support and challenge style, being able to clearly communicate detailed information to a range of audiences, a highly organised approach working back from deadlines, the ability to develop relationships and influence others, and a self-starting attitude.
+This role required a support and challenge style, being able to clearly communicate detailed information to a range of audiences, a highly organised approach working back from deadlines, the ability to develop relationships and influence others, and a self-starting attitude. Example [key performance indicator reporting]() to council committee.
 
 #### Other key roles carried out during this time include:
 
@@ -58,7 +68,7 @@ I led the roll out of the service transformation project, including the planning
 
 - *Business Model Canvas facilitator*
 
-Led the City Planning and Regeneration service management through a series of workshops to describe, design and challenge their current and future business model.
+Led the City Planning and Regeneration service management through a series of workshops to describe, design and challenge their current and future [business model](https://strategyzer.com/canvas/business-model-canvas).
 
 - *Customer Insight Manager*
 
@@ -76,12 +86,11 @@ I co-ordinated the publishing, completion and analysis of an annual survey of st
 The administration of the citywide Consultation Portal and training of staff across the local authority in conducting surveys, analysing results and producing reports.
 
 ## Interests
-- I'm a recording and performing musician (https://perchtheband.bandcamp.com)
-- The environment
-- Snowboarding, cycling, gym, tennis
+- I'm a [recording and performing musician](https://perchtheband.bandcamp.com)
+- I'm passionate about the environment and climate change
+- My hobbies include snowboarding and cycling
 
 ## Contact
-- Git: https://github.com/chrisjmit
 - chrisjmit(at)gmail.com
 - 07872485113
 
