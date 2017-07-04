@@ -47,7 +47,7 @@ To be added
 
 *Performance Analyst*
 
-As business-partner to the 'Economy, Environment and Culture' and 'Families, Children and Learning' directorates, I project managed the ongoing refresh of the organisations business planning framework, worked with data leads and service managers to compile quarterly performance reports, and presented these to each of the Executive Director's Management teams.
+As business-partner to the 'Economy, Environment and Culture' and 'Families, Children and Learning' directorates, I project managed the ongoing refresh of the business planning framework, worked with data leads and service managers to compile quarterly performance reports, and presented these to each of the Executive Director's Management teams.
 This role required a support and challenge style, being able to clearly communicate detailed information to a range of audiences, a highly organised approach working back from deadlines, the ability to develop relationships and influence others, and a self-starting attitude.
 
 #### Other key roles carried out during this time include:
@@ -62,7 +62,7 @@ Led the City Planning and Regeneration service management through a series of wo
 
 - *Customer Insight Manager*
 
-As author of the Customer Insight report, I co-ordinated the collection of transactional metrics from customer-facing services, publishing this in an annual report with an audience of senior management, staff and service users.
+As author of the [Customer Insight report](https://www.brighton-hove.gov.uk/sites/brighton-hove.gov.uk/files/Customer%20Insight%20report%202014-2015.pdf), I co-ordinated the collection of transactional metrics from customer-facing services, publishing this in an annual report with an audience of senior management, staff and service users.
 
 - *Internal Customer Survey Manager*
 
