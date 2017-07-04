@@ -4,7 +4,7 @@
 
 Hello, I'm Chris.
 
-I recently finished the 12-week remote learning course at Makers Academy and am looking for my first developer role. I'm a 33-year-old experienced performance analyst/project manager-turned-software developer. I've an ear for the musical and an eye for the great outdoors.
+I recently finished the 12-week remote learning course at Makers Academy and am looking for my first developer role. I'm a 33-year-old experienced performance analyst/project manager-turned-software developer. I've an ear for the musical and an eye for the great outdoors, and am looking for a role where I can continue to grow my passion for software craftsmanship, object-oriented programming, behaviour/test driven design, and the XP values.
 
 **Tech Skills** : Ruby, JavaScript, Node.js, React, Express, Rails, MongoDB, PostgreSQL, Sinatra, HTML, jQuery, CSS, Bootstrap.
 
@@ -47,46 +47,43 @@ To be added
 
 *Performance Analyst*
 
-As business-partner to the 'Economy, Environment and Culture' and 'Families, Children and Learning' directorates, I project managed the ongoing refresh of the organisations' business planning framework, compiled qualitative and quantitative quarterly performance reporting, and presented these to the Executive Director's Management team. The role involved a support and challenge style, benefitting from an organised approach working back from deadlines, the ability to influence others, and a self-starting and positive attitude.
+As business-partner to the 'Economy, Environment and Culture' and 'Families, Children and Learning' directorates, I project managed the ongoing refresh of the organisations business planning framework, worked with data leads and service managers to compile quarterly performance reports, and presented these to each of the Executive Director's Management teams.
+This role required a support and challenge style, being able to clearly communicate detailed information to a range of audiences, a highly organised approach working back from deadlines, the ability to develop relationships and influence others, and a self-starting attitude.
 
 #### Other key roles carried out during this time include:
 
 - *Workstyles Business Change Manager*
 
-Responsible for co-ordinating the service move in 2016 from the King's House building to Hove Town Hall.
+I led the roll out of the service transformation project, including the planning, communication and movement of staff and assets from King's House to Hove Town Hall, and the staff switch from using desktops to laptops.
+
+- *Business Model Canvas facilitator*
+
+Led the City Planning and Regeneration service management through a series of workshops to describe, design and challenge their current and future business model.
 
 - *Customer Insight Manager*
 
-Author of the organisation's Customer Insight report. I co-ordinated the collection of perceptional and transactional metrics on the customer experience, contact methods and feedback, and published this in an annual report with an audience of senior management, staff, residents and service users.
+As author of the Customer Insight report, I co-ordinated the collection of transactional metrics from customer-facing services, publishing this in an annual report with an audience of senior management, staff and service users.
 
-- *Internal Customer Survey manager*
+- *Internal Customer Survey Manager*
 
-Co-ordinated, analysed and published results of an annual survey of staff satisfaction of working with and using other council services.
-
-- *Business Model Canvas facilitator*
+I co-ordinated the publishing, completion and analysis of an annual survey of staff satisfaction of those that work with and use other council services.
 
 
 **Brighton & Hove City Council** (February 2009 to October 2010)
 
 *Systems Administrator*
 
-I was responsible for the administration  of the local authorities customer-engagement tool, used for consulting residents and service users on changes to service provision. I trained users in using the system and provided
-
-**University of Brighton** (May 2008 to January 2009)
-
-*Project Support Officer*
-
-I supported the project manager to deliver the rollout of an estates and asset management software solution for the management building assets and workflow. The role also involved the authoring of technical documentation and guidance, and providing face-to-face training.
+The administration of the citywide Consultation Portal and training of staff across the local authority in conducting surveys, analysing results and producing reports.
 
 ## Interests
-- Music (https://perchtheband.bandcamp.com)
-- Technology
-- Snowboarding
-- Cycling, gym, tennis
+- I'm a recording and performing musician (https://perchtheband.bandcamp.com)
+- The environment
+- Snowboarding, cycling, gym, tennis
 
 ## Contact
 - Git: https://github.com/chrisjmit
 - chrisjmit(at)gmail.com
+- 07872485113
 
 <!-- ## Skills
 
