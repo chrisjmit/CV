@@ -4,13 +4,9 @@
 
 Hello, I'm Chris.
 
-I'm a aspiring full stack web developer, with an ear for the musical and an eye for the great outdoors. I'm an achiever driven by a sense of possibility and a share of gratitude.
+I recently finished the 12-week remote learning course at Makers Academy and am looking for my first developer role. I'm a 33-year-old experienced performance analyst/project manager-turned-software developer. I've an ear for the musical and an eye for the great outdoors.
 
-With seven years experience as Performance Analyst at Brighton & Hove City Council, I've project managed the business planning, performance reporting and customer insight workstreams for high-profile services to the city.
-
-Moving forward, my professional aim is to use technology to create a future that inspires me and others, and I'm looking for a web development role in an organised and diverse working environment that prizes high-quality leadership and clear communication; one that will enable me to create efficient and effective customer-focussed solutions driven by collaboration, innovation and object-oriented design principals.
-
-**Tech Skills** : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
+**Tech Skills** : Ruby, JavaScript, Node.js, React, Express, Rails, MongoDB, PostgreSQL, Sinatra, HTML, jQuery, CSS, Bootstrap.
 
 ## Projects
 
@@ -30,21 +26,20 @@ To be added
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, BDD, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Node.js
+- Jasmine, Rspec, Mocha, Chai, Capybara, WebdriverIO, ZombieJS
 
 #### Your University / College (September 2003 to July 2006)
 
-- BA Hons Digital Music, (specialisms in composition, sound design and music production)
+- BA Hons Digital Music (composition/sound design/engineering)
 - Grade: 2:1
 
 #### Any other qualifications
 
-Prince2 Practitioner (May 2015)
-
-Various training course experiences at Brighton and Hove CC including Leading and Managing Change, Working in a political enviroment, Programme management, and Handling sensitive and challenging conversations.
+- Prince2 Practitioner (May 2015)
+- Various training course experiences at Brighton & Hove city council including Working in a Political Enviroment, Programme Management, Handling Sensitive and Challenging Conversations.
 
 ## Experience
 
@@ -52,13 +47,7 @@ Various training course experiences at Brighton and Hove CC including Leading an
 
 *Performance Analyst*
 
-As project manager in the Performance, Improvement and Programmes service area, I was business-partner to the Economy, Environment and Culture and Children's Services directorates.
-
-I delivered the day-to-day refresh of the directorate and service business plans, key performance indicator (KPI) sets and target setting for key services in the city including Waste, Recycling, Street Cleaning, Planning, Regeneration, Transport, Property & Design, Culture, Housing, and a host of Universal, Early Help and Specialist services for children in the city.
-
-I would lead and manage quarterly reporting of progress on KPI's and plans to the directorate management teams, and on the executive leadership team and local councillors at committee, to identify areas of delivery that were on-track, approaching target or off-track, and to clearly communicate the work being done toward improvement and achieving success in each area.
-
-The role involved a support and challenge style, benefitting from an organised approach working back from deadlines, the ability to influence others, and a self-starting and positive attitude.
+As business-partner to the 'Economy, Environment and Culture' and 'Families, Children and Learning' directorates, I project managed the ongoing refresh of the organisations' business planning framework, compiled qualitative and quantitative quarterly performance reporting, and presented these to the Executive Director's Management team. The role involved a support and challenge style, benefitting from an organised approach working back from deadlines, the ability to influence others, and a self-starting and positive attitude.
 
 #### Other key roles carried out during this time include:
 
