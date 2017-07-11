@@ -4,23 +4,19 @@
 
 Hello, I'm Chris.
 
-I'm a 33-year-old experienced performance analyst/project manager-turned-software developer that just finished the 12-week remote learning course at Makers Academy.
-I've an ear for the musical and an eye for the great outdoors, and am in the exciting position of now looking for my first developer role, where I can keep growing my passion for software craftsmanship, SOLID principles, test-driven design and the XP and Agile methodologies.
+I recently finished the 12-week remote learning course at Makers Academy and am looking for my first developer role. I'm a 33-year-old experienced performance analyst/project manager-turned-software developer. I've an ear for the musical and an eye for the great outdoors, and am looking for a role where I can keep growing my passion for software craftsmanship and the culture of creativity and possibility in technology.
 
 **Tech Skills** : Ruby, Javascript, Node.js, React, Express, Rails, MongoDB, PostgreSQL, HTML, jQuery, CSS, Bootstrap, Sinatra.
 
 ## Projects
 
 [In Search of Happiness](https://github.com/chrisjmit/in-search-of-happiness)
-
 A web app to help developers find their dream company to work for. Uses the Glassdoor Companies API for json data, built using the MERN (MongoDB, Express, React, Node) stack.
 
 [Finding Ra](https://github.com/chrisjmit/finding-ra)
-
 Single page web app using the Google Maps Javascript, Places and Geolocator API's to render a map of currently open establishments within 1000 meters of the current location.
 
 [Makers BnB](https://github.com/chrisjmit/makersbnb)
-
 Template website for posting spaces available for hire!
 
 Please see my Github for more info: https://github.com/chrisjmit
