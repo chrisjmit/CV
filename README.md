@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
-I'm an experienced performance analyst/project manager-turned-software developer with a keen interest in using technology for change, growth and innovation. I just finished a 12-week remote learning course at Makers Academy, a 'highly-selective bootcamp' that focusses on teaching the principles of software craftmanship and language-agnostic learning, and am in the exciting position of a career change into my first developer role where I am looking to continue to grow my passion for using code and design to solve problems, behaviour and test-driven development, and the Agile and XP methodologies.
+I'm an experienced performance analyst/project manager-turned-software developer with a keen interest in using technology for change, growth and innovation. I just finished a 12-week remote learning course at Makers Academy, a 'highly-selective bootcamp' that focusses on teaching the principles of software craftmanship and language-agnostic learning, and am in the exciting position of a career change into my first developer role where I am looking to continue to grow my passion for using code and design to solve problems, and applying behaviour and test-driven development, and the Agile and XP methodologies.
 
 **Tech Skills** : Ruby, Javascript, Node.js, React, Express, Rails, MongoDB, PostgreSQL, HTML, jQuery, CSS, Bootstrap, Sinatra.
 
