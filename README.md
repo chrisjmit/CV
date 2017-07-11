@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
-I'm an experienced performance analyst/project manager-turned-software developer with a keen interest in using technology for change, growth and innovation. I just finished a 12-week remote learning course at Makers Academy, a 'highly-selective bootcamp' that focusses on teaching the principles of software craftmanship and language-agnostic learning, and am in the exciting position of a career change into my first developer role where I am looking to continue to grow my passion for using code and design to solve problems, and applying behaviour and test-driven development, and the Agile and XP methodologies.
+I'm an experienced performance analyst/project manager-turned-software developer with a keen interest in using technology for change, growth and innovation. I just finished a 12-week remote learning course at Makers Academy, a 'highly-selective bootcamp' that focusses on teaching the principles of software craftmanship and language-agnostic learning, and am in the exciting position of a career change into my first developer role where I am looking to continue to grow my passion for using code to solve problems, object oriented and functional programming, behaviour and test-driven development, and the Agile and XP methodologies.
 
 **Tech Skills** : Ruby, Javascript, Node.js, React, Express, Rails, MongoDB, PostgreSQL, HTML, jQuery, CSS, Bootstrap, Sinatra.
 
@@ -25,7 +25,7 @@ Please see my Github for more info: https://github.com/chrisjmit
 ## Skills
 
 - Problem solving and analysis
-- Project management and business planning
+- Project and performance management
 - Self awareness and situational leadership
 - Excellent communication
 - Work ethic
@@ -94,22 +94,3 @@ The administration of the citywide Consultation Portal and training of staff acr
 ## Contact
 - chrisjmit(at)gmail.com
 - 07872485113
-
-<!-- ## Skills
-
-#### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.) -->
