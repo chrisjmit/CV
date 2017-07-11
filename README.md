@@ -59,7 +59,7 @@ Please see my Github for more info: https://github.com/chrisjmit
 *Performance Analyst*
 
 As business-partner to the 'Economy, Environment and Culture' and 'Families, Children and Learning' directorates, I project managed the ongoing refresh of the business planning framework, worked with data leads and service managers to compile quarterly performance reports, and presented these to each of the Executive Director's Management teams.
-This role required a support and challenge style, being able to clearly communicate detailed information to a range of audiences, a highly organised approach working back from deadlines, the ability to develop relationships and influence others, and a self-starting attitude. Example [key performance indicator reporting] to council committee.
+This role required a support and challenge style, being able to clearly communicate detailed information to a range of audiences, a highly organised approach working back from deadlines, the ability to develop relationships and influence others, and a self-starting attitude. Example [key performance indicator reporting](https://present.brighton-hove.gov.uk/Published/C00000912/M00006399/AI00054494/$20161128145904_009882_0040733_PRGQ2201617progressupdateCorporateKeyPerformanceIndicatorsappendix.pdfA.ps.pdf) to council committee.
 
 #### Other key roles carried out during this time include:
 
