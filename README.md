@@ -1,12 +1,14 @@
 ## Chris Mitchell
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) | [Links](#links)
 
 I'm an experienced performance analyst/project manager-turned-software developer with a keen interest in using technology for change, growth and innovation. I just finished a 12-week remote learning course at Makers Academy, a 'highly-selective bootcamp' that focusses on teaching the principles of software craftmanship and language-agnostic learning, and am in the exciting position of a career change into my first developer role where I am looking to continue to grow my passion for using code to solve problems, object oriented and functional programming, behaviour and test-driven development, and the Agile and XP methodologies.
 
 **Tech Skills** : Ruby, Javascript, Node.js, React, Express, Rails, MongoDB, PostgreSQL, HTML, jQuery, CSS, Bootstrap, Sinatra.
 
 ## Projects
+
+Please see my Github for more info: https://github.com/chrisjmit
 
 [In Search of Happiness](https://github.com/chrisjmit/in-search-of-happiness)
 
@@ -19,8 +21,6 @@ Single page web app using the Google Maps Javascript, Places and Geolocator API'
 [Makers BnB](https://github.com/chrisjmit/makersbnb)
 
 Project-team based web app Node-hosted example website for booking spaces available for hire.
-
-Please see my Github for more info: https://github.com/chrisjmit
 
 ## Skills
 
@@ -90,6 +90,11 @@ The administration of the citywide Consultation Portal and training of staff acr
 - [Recording and performing musician](https://perchtheband.bandcamp.com)
 - The arts, tech, environment and climate change
 - The great outdoors
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/chrisjmit
+- Github: https://github.com/chrisjmit
+- Codewars: https://www.codewars.com/users/chrisjmit
 
 ## Contact
 - chrisjmit(at)gmail.com
