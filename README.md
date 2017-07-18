@@ -2,17 +2,23 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) | [Links](#links)
 
-I'm an experienced performance analyst/project manager-turned-software developer with a keen interest in using technology for change, growth and innovation. I just finished a 12-week remote learning course at Makers Academy, a 'highly-selective bootcamp' that focusses on teaching the principles of software craftmanship and language-agnostic learning, and am in the exciting position of a career change into my first developer role where I am looking to continue to grow my passion for using code to solve problems, object oriented and functional programming, behaviour and test-driven development, and the Agile and XP methodologies.
+Hello, I'm Chris.
+
+I'm an experienced performance analyst and project manager-turned-software developer.
+
+I'm driven by a strong appreciation for life, the arts and the natural world. I would love to make an impact by using technology for change, growth and innovation.
+
+I just finished a 12-week remote learning course at Makers Academy, a 'selective bootcamp' that focusses on teaching the principles of software craftmanship and language-agnostic learning, and find myself in the exciting position of a career change into an area I find stimulating and satisfying.
+
+As part of this, I wish to broaden my understanding and knowledge of dynamically and statically-typed languages, as well as grow my interests in object-oriented and functional programming, TDD/BDD, Agile and XP.
 
 **Tech Skills** : Ruby, Javascript, Node.js, React, Express, Rails, MongoDB, PostgreSQL, HTML, jQuery, CSS, Bootstrap, Sinatra.
 
 ## Projects
 
-Please see my Github for more info: https://github.com/chrisjmit
-
 [In Search of Happiness](https://github.com/chrisjmit/in-search-of-happiness)
 
-Project-team based web app to help developers find their dream company to work for. Uses the Glassdoor Companies API json data, and implemented using the MERN (MongoDB, Express, React, Node) stack.
+Web app to help developers find their dream company to work for. Uses the Glassdoor Companies API  data, and implemented using the MERN (MongoDB, Express, React, Node) stack.
 
 [Finding Ra](https://github.com/chrisjmit/finding-ra)
 
@@ -22,13 +28,15 @@ Single page web app using the Google Maps Javascript, Places and Geolocator API'
 
 Project-team based web app Node-hosted example website for booking spaces available for hire.
 
+Please see my Github for more info: https://github.com/chrisjmit
+
 ## Skills
 
-- Problem solving and analysis
-- Project and performance management
-- Self awareness and situational leadership
-- Excellent communication
-- Work ethic
+- Problem solver with analytical mindset
+- 9 years experience of project and performance management working across small teams
+- Excellent communicator used to independently managing workload
+- Values-led team player that admires self awareness and situational leadership
+- High work ethic and self-starting attitude
 
 ## Education
 
@@ -58,18 +66,18 @@ Project-team based web app Node-hosted example website for booking spaces availa
 
 *Performance Analyst*
 
-As business-partner to the 'Economy, Environment and Culture' and 'Families, Children and Learning' directorates, I project managed the ongoing refresh of the business planning framework, worked with data leads and service managers to compile quarterly performance reports, and presented these to each of the Executive Director's Management teams.
-This role required a support and challenge style, being able to clearly communicate detailed information to a range of audiences, a highly organised approach working back from deadlines, the ability to develop relationships and influence others, and a self-starting attitude. Example [key performance indicator reporting](https://present.brighton-hove.gov.uk/Published/C00000912/M00006399/AI00054494/$20161128145904_009882_0040733_PRGQ2201617progressupdateCorporateKeyPerformanceIndicatorsappendix.pdfA.ps.pdf) to council committee.
+As business-partner to the 'Economy, Environment and Culture' and 'Families, Children and Learning' directorates, I led the ongoing refresh of the business planning framework, worked with data leads and service managers to compile quarterly business plan and performance reporting, and presented these to the Executive Director's Management teams.
+Example [key performance indicator reporting](https://present.brighton-hove.gov.uk/Published/C00000912/M00006399/AI00054494/$20161128145904_009882_0040733_PRGQ2201617progressupdateCorporateKeyPerformanceIndicatorsappendix.pdfA.ps.pdf) to council committee.
 
 #### Other key roles carried out during this time include:
 
 - *Workstyles Business Change Manager*
 
-I led the roll out of the service transformation project, including the planning, communication and movement of staff and assets from King's House to Hove Town Hall, and the staff switch from using desktops to laptops.
+Managed the roll out of the service transformation project, including the planning, communication and movement of staff and assets from King's House to Hove Town Hall, and the staff switch from using desktops to laptops.
 
 - *Business Model Canvas facilitator*
 
-Led the City Planning and Regeneration service management through a series of workshops to describe, design and challenge their current and future [business model](https://strategyzer.com/canvas/business-model-canvas).
+Facilitated sessions for the the City Planning and Regeneration service management to describe, design and challenge their current and future [business model](https://strategyzer.com/canvas/business-model-canvas) over a series of workshops.
 
 - *Customer Insight Manager*
 
@@ -88,8 +96,7 @@ The administration of the citywide Consultation Portal and training of staff acr
 
 ## Interests
 - [Recording and performing musician](https://perchtheband.bandcamp.com)
-- The arts, tech, environment and climate change
-- The great outdoors
+- Tech, health, the environment and climate change
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/chrisjmit
